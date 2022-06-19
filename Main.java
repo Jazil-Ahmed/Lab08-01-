@@ -86,3 +86,4 @@ public String getname(){
     System.out.println(""+ob1.getname()+"\n");
   }
 }
+//Main Class
